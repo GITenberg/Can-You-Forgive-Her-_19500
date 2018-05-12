@@ -1,0 +1,46 @@
+_repo: Can-You-Forgive-Her-_19500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Can You Forgive Her? is a novel by Anthony Trollope, first published\
+  \ in serial form in 1864 and 1865. It is the first of six novels in the Palliser\
+  \ series, also known as the Parliamentary Novels.\nThe novel follows three parallel\
+  \ stories of courtship and marriage and the decisions of three strong women: Alice\
+  \ Vavasor, her cousin Glencora Palliser, and her aunt Arabella Greenow. Early on,\
+  \ Alice asks the question \"What should a woman do with her life?\" This theme repeats\
+  \ itself in the dilemmas faced by the other women in the novel. Lady Glencora and\
+  \ her husband Plantagenet Palliser recur in the remainder of the series.\nThe satirical\
+  \ periodical Punch mocked the work, referring to it as Can You Stand Her? due to\
+  \ its writers' irritation at Alice's ineptitude in deciding between her two suitors.\
+  \ In his memoir about writing, Stephen King pokes fun at the book's length, joking\
+  \ that for modern audiences a more appropriate title might be Can You Possibly Finish\
+  \ It?\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19500'
+  wikidata: Q5029115
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Palliser, Plantagenet (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+title: Can You Forgive Her?
+url: http://www.gutenberg.org/ebooks/19500
+wikipedia:
+- https://en.wikipedia.org/wiki/Can_You_Forgive_Her%3F
