@@ -24,6 +24,8 @@ description: "Can You Forgive Her? is a novel by Anthony Trollope, first publish
   \ In his memoir about writing, Stephen King pokes fun at the book's length, joking\
   \ that for modern audiences a more appropriate title might be Can You Possibly Finish\
   \ It?\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19500#Can-You-Forgive-Her-
 gutenberg_issued: '2006-11-16'
 gutenberg_type: Text
 identifiers:
